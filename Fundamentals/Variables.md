@@ -48,10 +48,8 @@ print(name)
 print(Name)
 print(NAME)
 ```
-
+output:
 ``` python
-#Output
-
 throne
 Alice
 Bob
