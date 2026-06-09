@@ -5,10 +5,12 @@ A data type defines the kind of value stored in a variable.
 different data types are used for different purposes, such as storing text, numbers, or logical values.
 
 ## Common Data types
-int = integer number, ex: 10, -5, 100
-float = decimal number, ex: 3.14, 0.5
-str = text (string), ex: "hello", 'python'
-bool = boolean value, ex: True, False
+| Data type | Description | Example |
+|---|---|---|
+|int | integer number | 10, -5, 100 |
+|float | decimal number | 3.14, 0.5 |
+|str | text (string) | "hello", 'python' |
+|bool | boolean value | True, False |
 
 ### Example
 ``` python
