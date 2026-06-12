@@ -11,7 +11,7 @@ Python provides different types of operators for calculations, comparisons, and 
 |Comparison|Compare values|
 |Logical|Combine conditions|
 
-## Airthmetic Operators
+## Arithmetic Operators
 Arithmetic operators are used for mathematical calculations.
 |Operator|Description|Example|
 |---|---|---|
