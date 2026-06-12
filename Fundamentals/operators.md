@@ -247,7 +247,7 @@ quantity = 3
 
 total = price * quantity
 
-print(totall)
+print(total)
 ```
 
 Output:
