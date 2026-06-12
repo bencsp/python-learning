@@ -1,4 +1,4 @@
-# 04 -- Opeartors in Python
+# 04 -- Operators in Python
 ## Concept
 Operators are special symbols used to perform operations on values and variables.
 
