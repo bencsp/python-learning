@@ -96,6 +96,7 @@ age = int(input("Enter your age: "))
 ```
 
 The 'input()' function returns a string.
+
 so 'int()' is used to convert the value into an integer before performing calculations.
 
 ## Notes
